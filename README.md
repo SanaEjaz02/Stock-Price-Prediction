@@ -37,7 +37,7 @@ Example used: **Tesla (TSLA)** stock from Jan 2020 to present.
 
 Here’s a visualization comparing predicted vs actual closing prices:
 
-![Prediction Plot](images/prediction_plot.png)
+![Prediction Plot](images_plot.png)
 
 You can also see the Mean Squared Error (MSE) value which tells us how close the predictions are to the actual values.
 
